@@ -6,6 +6,6 @@ for(let i=0;i<diwa.length;i++){
 	empty.push(naik);
 }
 empty.sort();
-conole.log(empty);
+console.log(empty);
 
 
